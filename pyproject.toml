@@ -1,0 +1,12 @@
+[project]
+name = "selecao-celiff"
+version = "0.1.0"
+requires-python = ">=3.9"
+description = "Sorteio de candidatos com prioridades e cotas"
+readme = "README.md"
+authors = [{name="CELIFF"}]
+dependencies = []
+
+[tool.pytest.ini_options]
+addopts = "-q"
+pythonpath = ["."]
