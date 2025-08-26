@@ -1,4 +1,4 @@
 /.pytest_cache
 /.venv
-/.data
-/.out
+/out
+/data
